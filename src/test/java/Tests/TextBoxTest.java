@@ -12,7 +12,7 @@ public class TextBoxTest extends BaseTest {
 
     String fullname = "Vuko";
     String email = "blabla@gmail.com";
-    String currentAddress = "Marka Markovica 1";
+    String currentAddress = "Marka Markovicaa 1";
     String permanentAddress = "Zarka Zarkovica 25/10";
 
     @BeforeEach
